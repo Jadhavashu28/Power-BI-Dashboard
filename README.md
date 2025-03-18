@@ -1,7 +1,7 @@
 #🛒 BlinkIT Grocery Sales Analysis (Power BI)
 
 # 🚀 Project Overview
-This Power BI dashboard provides insights into BlinkIT grocery sales data, helping businesses analyze revenue, customer trends, and product performance.
+This Power BI dashboard provides insights into Blinkit grocery sales data, helping businesses analyze revenue, customer trends, and product performance.
 
 # 🛠️ Tools & Technologies
 Power BI (Data Visualization & Dashboarding)
